@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Jhonatangiraldo/drag-and-drop-images/static/css/main.2dcee4bf.chunk.css",
+    "main.js": "/Jhonatangiraldo/drag-and-drop-images/static/js/main.07d08037.chunk.js",
+    "main.js.map": "/Jhonatangiraldo/drag-and-drop-images/static/js/main.07d08037.chunk.js.map",
+    "runtime-main.js": "/Jhonatangiraldo/drag-and-drop-images/static/js/runtime-main.58fc28f9.js",
+    "runtime-main.js.map": "/Jhonatangiraldo/drag-and-drop-images/static/js/runtime-main.58fc28f9.js.map",
+    "static/js/2.8f6e1ee4.chunk.js": "/Jhonatangiraldo/drag-and-drop-images/static/js/2.8f6e1ee4.chunk.js",
+    "static/js/2.8f6e1ee4.chunk.js.map": "/Jhonatangiraldo/drag-and-drop-images/static/js/2.8f6e1ee4.chunk.js.map",
+    "static/js/3.a2881c81.chunk.js": "/Jhonatangiraldo/drag-and-drop-images/static/js/3.a2881c81.chunk.js",
+    "static/js/3.a2881c81.chunk.js.map": "/Jhonatangiraldo/drag-and-drop-images/static/js/3.a2881c81.chunk.js.map",
+    "index.html": "/Jhonatangiraldo/drag-and-drop-images/index.html",
+    "static/css/main.2dcee4bf.chunk.css.map": "/Jhonatangiraldo/drag-and-drop-images/static/css/main.2dcee4bf.chunk.css.map",
+    "static/js/2.8f6e1ee4.chunk.js.LICENSE.txt": "/Jhonatangiraldo/drag-and-drop-images/static/js/2.8f6e1ee4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Jhonatangiraldo/drag-and-drop-images/static/media/reject.fb5d2700.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58fc28f9.js",
+    "static/js/2.8f6e1ee4.chunk.js",
+    "static/css/main.2dcee4bf.chunk.css",
+    "static/js/main.07d08037.chunk.js"
+  ]
+}
