@@ -1,0 +1,45 @@
+.main {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.main__left, .main__right {
+  flex: 1;
+  overflow: hidden;
+}
+
+.main__left {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  border-right: 1px solid black;
+}
+
+.main__right {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.right__up {
+  background-image: url(../assets/keep.png);
+}
+
+.right__bottom {
+  background-image: url(../assets/reject.png);
+  border-top: 1px solid black;
+}
+
+.right__bottom, .right__up {
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
